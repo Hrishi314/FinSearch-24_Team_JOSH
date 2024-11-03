@@ -38,9 +38,9 @@ Mentor: **Likhitha Sree**
 
 ## Project Roadmap
 
-To guide our development, we designed a [Project Roadmap](https://github.com/your-repo/roadmap). This roadmap outlines each phase of our project and details the integration of various components, including data preprocessing, model selection, and hyperparameter tuning.
+To guide our development, we designed a [Project Roadmap](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/RoadMap_Using%20deep%20RL%20to%20optimise%20stock%20returns.pdf). This roadmap outlines each phase of our project and details the integration of various components, including data preprocessing, model selection, and hyperparameter tuning.
 
-*For the detailed roadmap, please refer to our [Roadmap Document](https://github.com/your-repo/roadmap).*  
+*For the detailed roadmap, please refer to our [Roadmap Document](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/RoadMap_Using%20deep%20RL%20to%20optimise%20stock%20returns.pdf).*  
 
 ---
 
@@ -58,7 +58,7 @@ To guide our development, we designed a [Project Roadmap](https://github.com/you
 
 Incorporating **Deep Q-Learning** allows us to adapt trading strategies in real-time. RL adapts to market conditions dynamically, making it an optimal choice for trading decisions that respond to changing data patterns.
 
-For more technical details, please review our [Midterm Report](https://github.com/your-repo/midterm-report).
+For more technical details, please review our [Midterm Report](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/Finsearch%20'24%20JOSH-1.pdf).
 
 ---
 
@@ -69,12 +69,12 @@ The project's implementation phase involved two main components: **LSTM-based pr
 1. **LSTM Implementation**:
    - The LSTM model was trained to predict stock prices using NIFTY 50 data. We used **MinMaxScaler** for data normalization, and predictions were made using a one-step look-back window.
 
-   *Explore the implementation code here:* [LSTM Implementation.ipynb](https://github.com/your-repo/lstm-implementation)
+   *Explore the implementation code here:* [LSTM Implementation.ipynb](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/RL_model_and_LSTM_Notebook.ipynb)
 
 2. **Q-Learning Implementation**:
    - The RL model was designed with a two-action space: **Hold** or **Buy**. A Q-table was initialized, and an epsilon-greedy policy was applied to balance exploration and exploitation.
 
-   *Explore the implementation code here:* [Q-Learning Implementation.ipynb](https://github.com/your-repo/rl-implementation)
+   *Explore the implementation code here:* [Q-Learning Implementation.ipynb](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/RL_model_and_LSTM_Notebook.ipynb)
 
 ---
 
@@ -82,7 +82,7 @@ The project's implementation phase involved two main components: **LSTM-based pr
 
 Our results indicate that the RL agent outperformed the LSTM model in both short-term (6-week) and long-term (1-year) simulations. The Q-learning-based RL model demonstrated better adaptability, yielding a significantly higher return on investment.
 
-Comparison of model performance is detailed in the [End-Term Report](https://github.com/your-repo/end-term-report), complete with performance graphs and statistical analysis.
+Comparison of model performance is detailed in the [End-Term Report](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/FinSearch_Team_Josh_Endterm_Report.pdf), complete with performance graphs and statistical analysis.
 
 ---
 
@@ -90,13 +90,13 @@ Comparison of model performance is detailed in the [End-Term Report](https://git
 
 ### Reports and Notebooks
 
-- **Mid-Term Report**: [FinSearch'24 Mid-Term Report](https://github.com/your-repo/midterm-report)
-- **End-Term Report**: [FinSearch'24 End-Term Report](https://github.com/your-repo/end-term-report)
-- **Test Cases**: [Test Cases for Model Evaluation](https://github.com/your-repo/test-cases)
+- **Mid-Term Report**: [FinSearch'24 Mid-Term Report](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/Finsearch%20'24%20JOSH-1.pdf)
+- **End-Term Report**: [FinSearch'24 End-Term Report](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/FinSearch_Team_Josh_Endterm_Report.pdf)
+- **Test Cases**: [Test Cases for Model Evaluation](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/Testing_the_Model.ipynb)
 
 For code files and model notebooks:
-- **LSTM Model Notebook**: [LSTM Model](https://github.com/your-repo/lstm-implementation)
-- **Reinforcement Learning Model Notebook**: [RL Model](https://github.com/your-repo/rl-implementation)
+- **LSTM Model Notebook**: [LSTM Model](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/RL_model_and_LSTM_Notebook.ipynb)
+- **Reinforcement Learning Model Notebook**: [RL Model](https://github.com/Hrishi314/FinSearch-24_Team_JOSH/blob/main/RL_model_and_LSTM_Notebook.ipynb)
 
 ---
 
