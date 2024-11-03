@@ -108,4 +108,4 @@ For any questions about this repository or other queries, please feel free to co
 
 ---
 
-**_Please do not copy_**: This work is the culmination of our team's efforts at FinSearch'24, IIT Bombay. Duplication or unauthorized sharing is strictly prohibited and may result in academic or legal consequences.
+**_Please do not copy_**: This work is the culmination of our team's efforts at FinSearch'24, IIT Bombay. Duplication or unauthorized sharing is strictly prohibited.
