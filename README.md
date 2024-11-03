@@ -2,7 +2,7 @@
 
 Welcome to the FinSearch'24 repository! This project leverages **Reinforcement Learning (RL)** to enhance stock trading strategies and maximize investment returns. Developed by the Finance Club, IIT Bombay, our study explores the effectiveness of RL techniques like **Deep Q-Networks (DQN)** in dynamic financial markets.
 
-**_Important Note_**: Please do not copy this README or any part of the project. This content is the intellectual property of our team and is published solely for learning and reference purposes. For any questions or clarifications, please reach out to me at [jatin.ee.iitb@gmail.com](mailto:jatin.ee.iitb@gmail.com).
+**_Important Note_**: Please do not copy this README or any part of the project. For any questions or clarifications, please reach out to me at [jatin.ee.iitb@gmail.com](mailto:jatin.ee.iitb@gmail.com).
 
 ---
 
