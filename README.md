@@ -27,9 +27,9 @@ Predicting stock market trends has always been a challenging yet essential endea
 - Assess RL's adaptability and profitability against these traditional models.
   
 Our team members include:
+- **Jatin Kumar** (Roll No: 22B3922)
 - **Sangeetha D** (Roll No: 22B3310)
 - **Hrishikesh S** (Roll No: 22B4217)
-- **Jatin Kumar** (Roll No: 22B3922)
 - **Oviya S** (Roll No: 22B3918)
 
 Mentor: **Likhitha Sree**
