@@ -105,6 +105,7 @@ For code files and model notebooks:
 For any questions about this repository or other queries, please feel free to contact me:
 
 - **Jatin Kumar**: [jatin.ee.iitb@gmail.com](mailto:jatin.ee.iitb@gmail.com)
+- **Hrishikesh S**:[hrishikeshs.ee.iitb@gmail.com](mailto:hrishikeshs.ee.iitb@gmail.com)
 
 ---
 
